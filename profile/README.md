@@ -1,1 +1,1 @@
-![fasko light](profile/fasko-light.png)
+![fasko light](https://github.com/fasko-app/.github/blob/main/profile/fasko-light.png?raw=true)
