@@ -1,1 +1,1 @@
-![fasko-light](fasko-light.png)
+![fasko light](fasko-light.png)
