@@ -1,4 +1,4 @@
 # Fasko
 
-| ![fasko logo](https://avatars.githubusercontent.com/u/105215824?s=200&v=4) | Fast task manager + pomodoro timer. App is made by Roman Koshchei. Add task then swipe it and start pomodoro timer. |
+| ![fasko logo](https://avatars.githubusercontent.com/u/105215824?s=200&v=4) | Fast task manager + pomodoro timer. App is made by Roman Koshchei. Add task then swipe it and start pomodoro timer. Be productive! |
 | ---- | ---- |
